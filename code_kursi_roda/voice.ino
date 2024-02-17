@@ -1,4 +1,4 @@
-w
+void voice()
 {
  
   int ret;
